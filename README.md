@@ -1,1 +1,1 @@
-# Nesne-Alg-lama-ve-Sayma
+# Nesne-Alglama-ve-Sayma
